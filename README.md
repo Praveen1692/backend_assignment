@@ -39,3 +39,22 @@ src->
  npm run dev
 
 
+
+
+
+
+
+
+
+
+# Environmnet variable configuration
+
+PORT=5000
+
+
+
+DB_HOST="localhost"
+DB_PORT=5432
+USER_NAME="postgres"
+DB_PASSWORD=pass123
+DB_NAME=backend_assignment
